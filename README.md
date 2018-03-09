@@ -3,7 +3,7 @@ WesBos - Javascript30 - Speech Recognition app with some custom modifications.
 
 Speech commands: 
 
-'Go to Google' => Google.com,
+'Go to Google' => Google.com<br>
 'Go to Youtube' => Youtube.com,
 'Go to Instagram' => Instagram.com,
 'Go to Facebook' => Facebook.com,
