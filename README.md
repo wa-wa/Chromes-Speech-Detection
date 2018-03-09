@@ -1,7 +1,7 @@
 # SpeechRecognition
 WesBos - Javascript30 - Speech Recognition app with some custom modifications.
 
-Speech commands: <br><br>
+Speech commands: <br>
 
 'Go to Google' => Google.com<br>
 'Go to Youtube' => Youtube.com<br>
