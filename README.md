@@ -9,4 +9,4 @@ Speech commands: <br>
 'Go to Facebook' => Facebook.com<br>
 'Go to GitHub' => Github.com<br>
 
-More will be added soon. I'm hoping to add some API commands, such as a weather API or crime around your area. I'm also hoping to redesign the whole thing and make it look like some secret agent shit. Try it out yourself.
+More will be added soon. I may adding some API commands, such as a weather API or crime around your area. I'm also redesigning the whole thing, feel free to try it out yourself.
